@@ -1,4 +1,4 @@
 <h1>Alurinha</h1>
-<p>Projeto realizado no curso de css sobre a ferramenta flexbox.</p>
+<p>Projeto realizado no curso de css sobre a ferramenta flexbox juntamente com a escola Alura</p>
 <br>
-<p>Todos os posicionamentos nessa página foram realizados com esta ferramenta.</p>
+<p>Todos os posicionamentos nessa página foram realizados com a ferramenta flex.</p>
